@@ -135,8 +135,9 @@
 
 		printf("Кол-во слов: %d\n", countWords);
 
-	}
 }
+
+
 int main() {
 	lab_7_task_4();
 	lab_7_task_5();
